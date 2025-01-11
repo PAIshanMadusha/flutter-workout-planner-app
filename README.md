@@ -33,7 +33,7 @@ A Flutter-based mobile application designed to help users plan and track their w
   <br>
   <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="https://github.com/user-attachments/assets/35140824-57af-408e-b8af-c3b4d3d07b41" alt="Add Page" width="300" />
-    <img src="https://github.com/user-attachments/assets/fa885b34-2c66-48a5-97ad-263a6fb360f0" alt="Favorite Page" width="304" />
+    <img src="https://github.com/user-attachments/assets/fa885b34-2c66-48a5-97ad-263a6fb360f0" alt="Favorite Page" width="306" />
     <img src="https://github.com/user-attachments/assets/e41c9cf6-992f-4d10-91bd-047195502896" alt="Profile Page" width="303" />
   </div>
 </div>
