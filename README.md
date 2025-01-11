@@ -26,8 +26,8 @@ A Flutter-based mobile application designed to help users plan and track their w
 ---
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github.com/user-attachments/assets/603dc6f8-9b30-4f22-aed6-ade289cfe7a6" alt="Home Page" width="300" />
-    <img src="https://github.com/user-attachments/assets/f93e11b8-05e9-44dd-a63d-137aed220544" alt="Exercises Page" width="300" />
+    <img src="https://github.com/user-attachments/assets/603dc6f8-9b30-4f22-aed6-ade289cfe7a6" alt="Home Page" width="303" />
+    <img src="https://github.com/user-attachments/assets/f93e11b8-05e9-44dd-a63d-137aed220544" alt="Exercises Page" width="302" />
     <img src="https://github.com/user-attachments/assets/1c6e6056-6a0b-4a19-8bbc-b08b8d0a9098" alt="Equipments Page" width="300" />
   </div>
   <br>
