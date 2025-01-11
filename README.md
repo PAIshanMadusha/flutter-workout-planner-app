@@ -1,16 +1,46 @@
-# workout_planner_app
+# Workout Planner App
 
-A new Flutter project.
+A Flutter-based mobile application designed to help users plan and track their workouts efficiently. The app offers features to view, add, favorite, and manage exercises and equipment with progress tracking. User data (exercises and equipment) is stored in a list, not implemented in a database.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+### **Home Page**
+- View all exercises and equipment.
 
-A few resources to get you started if this is your first Flutter project:
+### **Add Page**
+- Add exercises and equipment to your profile.
+- Mark exercises and equipment as favorites.
+- User data is stored in a list, not implemented in a database.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### **Favorite Page**
+- Access a list of your favorite exercises and equipment.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### **Profile Page**
+- View added exercises and equipment.
+- Track progress with a **Linear Progress Indicator** (calories burned).
+- View detailed statistics:
+  - **Total Equipment Completed**: Adjusts when items are marked as done.
+  - **Total Equipment Handed Over**: Adjusts when items are marked as done.
+
+## Here are some screenshots of the system:
+---
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github.com/user-attachments/assets/603dc6f8-9b30-4f22-aed6-ade289cfe7a6" alt="Home Page" width="300" />
+    <img src="https://github.com/user-attachments/assets/f93e11b8-05e9-44dd-a63d-137aed220544" alt="Exercises Page" width="300" />
+    <img src="https://github.com/user-attachments/assets/1c6e6056-6a0b-4a19-8bbc-b08b8d0a9098" alt="Equipments Page" width="300" />
+  </div>
+  <br>
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github.com/user-attachments/assets/35140824-57af-408e-b8af-c3b4d3d07b41" alt="Add Page" width="300" />
+    <img src="https://github.com/user-attachments/assets/fa885b34-2c66-48a5-97ad-263a6fb360f0" alt="Favorite Page" width="300" />
+    <img src="https://github.com/user-attachments/assets/e41c9cf6-992f-4d10-91bd-047195502896" alt="Profile Page" width="300" />
+  </div>
+</div>
+
+
+
+
+
+
+
